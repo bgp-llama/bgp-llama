@@ -27,3 +27,8 @@
 - 발표자료 : week2/6조_발표자료_0313.pptx
 - 2주차 발표 동영상 링크 (문제점 목록) : https://youtu.be/cU9NSWVjor0
 
+## 3주차 활동
+- 브레인스토밍 수행 : week3/6조-3주차-bgp라우팅분석-브레인스토밍-결과.pdf
+- 발표자료 : week3/6조-3주차-발표자료.pdf
+- 3주차 발표 동영상 링크 (브레인스토밍) : https://youtu.be/sgvugWgsU-w
+
