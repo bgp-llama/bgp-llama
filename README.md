@@ -32,3 +32,7 @@
 - 발표자료 : week3/6조-3주차-발표자료.pdf
 - 3주차 발표 동영상 링크 (브레인스토밍) : https://youtu.be/sgvugWgsU-w
 
+## 4주차 활동
+- 문제 정의서 작성 :
+- 발표자료 : week3/6조-4주차-발표자료.pptx
+- 4주차 발표 동영상 링크 (문제 정의서) : https://youtu.be/qqROIsBxzAs
